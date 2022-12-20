@@ -19,11 +19,6 @@ class Program
             ConsoleComandExecute(comand);
             
 
-
-
-
-
-
         }
     }
     static void ConsoleComandExecute(string comandName)
@@ -41,8 +36,6 @@ class Program
 
         }
 
-
-        //какие-то вспомогательные команды:
         //сlear()
         //exit()
         //
